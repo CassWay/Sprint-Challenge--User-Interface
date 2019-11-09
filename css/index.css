@@ -272,60 +272,59 @@ header .logo {
 }
 
 .middle-content .boxes .box.box2 {
-    background: gold;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: gold;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box3 {
-    background: cadetblue;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: cadetblue;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box4 {
-    background: coral;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: coral;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box5 {
-    background: crimson;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: crimson;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box6 {
-    background: forestgreen;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: forestgreen;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box7 {
-    background: darkorchid;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: darkorchid;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box8 {
-    background: hotpink;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: hotpink;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box9 {
-    background: indigo;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: indigo;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
 .middle-content .boxes .box.box10 {
-    background: dodgerblue;
-    animation-duration: 3s;
-    animation-name: slide;
-    animation-delay 3s;
+	background: dodgerblue;
+	animation-duration: 3s;
+	animation-name: slide;
+	animation-delay: 3s;
 }
-
 
 .bottom-content {
 	display: flex;
@@ -344,6 +343,7 @@ header .logo {
 footer {
 	width: 100%;
 	background: black;
+	margin-top: 20px;
 }
 
 footer nav {
@@ -363,53 +363,53 @@ footer nav a {
 /* CSS for About Page */
 
 .container.about-page {
-    widows: 800px;
-    margin: 0 auto;
+	widows: 800px;
+	margin: 0 auto;
 }
 
 .jumbo-about {
-    margin-bottom: 30px;
+	margin-bottom: 30px;
 }
 
 .about-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: flex-start;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: flex-start;
 }
 
 .about-text {
-    border-bottom: 1px dashed black;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    flex-wrap: wrap;
+	border-bottom: 1px dashed black;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	flex-wrap: wrap;
 }
 
 .about-content .info {
-    width: 370px;
-    margin: 20px 0;
-    border-bottom: 1px dashed black;
-    padding-bottom: 20px;
-    margin-bottom: 40px;
-    display: flex;
-    flex-wrap: wrap;
+	width: 370px;
+	margin: 20px 0;
+	border-bottom: 1px dashed black;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .about-content img {
-    padding-bottom: 14px;
+	padding-bottom: 14px;
 }
 
 .about-content .info button {
-    padding: 10px 40px;
-    margin-top: 20px;
-    cursor: pointer;
-    background: white;
-    border-radius: 5px;
-    border: 2px solid black;
+	padding: 10px 40px;
+	margin-top: 20px;
+	cursor: pointer;
+	background: white;
+	border-radius: 5px;
+	border: 2px solid black;
 }
 
 .about-content .info button:hover {
-    background: black;
-    color: white;
+	background: black;
+	color: white;
 }
