@@ -271,6 +271,62 @@ header .logo {
 	animation-delay: 3s;
 }
 
+.middle-content .boxes .box.box2 {
+    background: gold;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box3 {
+    background: cadetblue;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box4 {
+    background: coral;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box5 {
+    background: crimson;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box6 {
+    background: forestgreen;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box7 {
+    background: darkorchid;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box8 {
+    background: hotpink;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box9 {
+    background: indigo;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+.middle-content .boxes .box.box10 {
+    background: dodgerblue;
+    animation-duration: 3s;
+    animation-name: slide;
+    animation-delay 3s;
+}
+
+
 .bottom-content {
 	display: flex;
 	margin: 0 2% 20px;
